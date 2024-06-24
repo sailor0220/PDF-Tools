@@ -107,7 +107,7 @@ dependencies {
         implementation "com.h2database:h2:2.1.214"
     }
 
-    testImplementation 'org.springframework.boot:spring-boot-starter-test:3.2.4'
+    testImplementation 'org.springframework.boot:spring-boot-starter-test:3.3.1'
 
     // Batik
     implementation 'org.apache.xmlgraphics:batik-all:1.17'
